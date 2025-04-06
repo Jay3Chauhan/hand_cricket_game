@@ -81,4 +81,5 @@ lib/
    # Run the app
    flutter run
    ```
-
+## Release APK
+https://drive.google.com/file/d/15MmcFmqzQPBwSGZTTPrRbE-zEG0JeCoM/view?usp=sharing
