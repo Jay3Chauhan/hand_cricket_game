@@ -47,10 +47,10 @@ A fun and interactive hand cricket game built with Flutter, where you can play a
 lib/
 ├── core/
 │   ├── utils/
-│   │   ├── constants/
-│   │   ├── theme/
-│   │   └── responsive_util.dart
-│   └── providers/
+│      ├── constants/
+│      ├── theme/
+│      └── responsive_util.dart
+│   
 ├── features/
 │   └── game/
 │       ├── models/
@@ -63,8 +63,8 @@ lib/
 ## Getting Started
 
 1. **Prerequisites**:
-   - Flutter SDK
-   - Dart SDK
+   - Flutter SDK (3.29.0)
+   - Dart SDK  3.7.0 (stable)
    - Android Studio / VS Code with Flutter extensions
 
 2. **Installation**:
@@ -82,10 +82,3 @@ lib/
    flutter run
    ```
 
-## Contributing
-
-Contributions are welcome! Feel free to submit issues and pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
