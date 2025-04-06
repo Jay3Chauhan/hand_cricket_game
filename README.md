@@ -5,7 +5,7 @@ A fun and interactive hand cricket game built with Flutter, where you can play a
 ## Features
 
 - 🏏 Interactive batting and bowling gameplay
-- 🤖 Play against an AI bot
+- 🤖 Play against a bot
 - ⏱️ Time-based turns (10 seconds per move)
 - 📊 Real-time score tracking
 - 🎯 Target score calculation
